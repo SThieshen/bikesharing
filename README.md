@@ -35,10 +35,8 @@ This project is an analysis of New York Citi Bike data, using data visualization
 
 
 #### Trips by weekday and gender
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/97826316-e9e18b00-1c86-11eb-814c-b558ed34335d.png">
-    <img src="https://user-images.githubusercontent.com/68669675/97826317-e9e18b00-1c86-11eb-9559-f06b93418b58.png">
-</p>
+![alt text](https://github.com/SThieshen/bikesharing/blob/main/development/trips_weekday.png)
+
 
 - Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
 - Weekend rides are highest from 10:00 AM to 7:00 PM.
