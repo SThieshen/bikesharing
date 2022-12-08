@@ -14,12 +14,8 @@ This project is an analysis of New York Citi Bike data, using data visualization
 - There is a wide range of the age of the users. Younger users tend to use the service for longer rides.
 - Top ride starting locations are in the most touristic and busy areas, as we see here in Manhattan.
 
-<br>
-
 #### August Peak Hours
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/97826311-e8b05e00-1c86-11eb-8240-ab05bc3cb61f.png"> 
-</p>
+![alt text](https://github.com/SThieshen/bikesharing/blob/main/development/bike_maintenance.png)
 
 - Highest activity hours are from 5:00 PM to 7:00 PM and require the most resources mobilized.
 - The activity from 2:00 AM to 5:00 AM is low so this would be the window for bike maintenance.
