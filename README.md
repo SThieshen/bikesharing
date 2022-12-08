@@ -7,9 +7,7 @@ This project is an analysis of New York Citi Bike data, using data visualization
 
 ### New York Citi Bike data visualizations for August 2019
 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/97826309-e77f3100-1c86-11eb-8503-e40691cd6fe0.png"> 
-</p>
+![alt text](https://github.com/SThieshen/bikesharing/blob/main/development/Avg_trip_loc.png)
 
 - There were over 2.3 million rides for the month of August 2019.
 - 81% of the users were subscribers. 65% of the users were confirmed males and 25% were confirmed females.
