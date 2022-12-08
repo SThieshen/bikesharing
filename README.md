@@ -22,13 +22,10 @@ This project is an analysis of New York Citi Bike data, using data visualization
 
 
 #### Checkout times for users
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/97828088-b7865c80-1c8b-11eb-9c03-91ad942a6daa.png"> 
-</p>
+![alt text](https://github.com/SThieshen/bikesharing/blob/main/development/checkout_times.png)
 
 - Bikes are mostly checked out for 4 to 6 hours.
 
-<br>
 
 #### Checkout times by gender
 <p align="center">
