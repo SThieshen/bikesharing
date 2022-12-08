@@ -28,13 +28,11 @@ This project is an analysis of New York Citi Bike data, using data visualization
 
 
 #### Checkout times by gender
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/97828090-b8b78980-1c8b-11eb-947f-87486da03b73.png"> 
-</p>
+![alt text](https://github.com/SThieshen/bikesharing/blob/main/development/checkout_gender.png)
 
 - Male users take approximately 3 times more rides than the female users.
 
-<br>
+
 
 #### Trips by weekday and gender
 <p align="center">
